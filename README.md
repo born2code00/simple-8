@@ -13,4 +13,5 @@ I made this hardware inferior to the Atari 2600, because i like how homebrew dev
 
 # Documentation
 ~~This project dosen't have documentation yet, but i think i'm gonna make the documentation tommorow, so... yeah. Read the code if you want to see how the project works. :P~~
-<br>Edit: I forgot to put it in here, but now ***there is*** documentation!<br>It is recommended that you read the whole documentation.
+<br>Edit: I forgot to put it in here, but now ***there is*** documentation!<br>It is recommended that you read the whole documentation.<br>
+Edit 2: I forgot to put it in the documentation, but you need the ```keyboard``` module for it to work.
